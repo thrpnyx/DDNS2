@@ -117,6 +117,7 @@ figcaption {
     font-size: 1.1rem;
     line-height: 1.6;
     font-style: italic;
+    overflow-wrap: break-word; /* Evita que mensagens longas quebrem o layout no celular */
 }
 
 .spotify-container {
